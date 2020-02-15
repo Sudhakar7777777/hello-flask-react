@@ -1,0 +1,11 @@
+venv/
+.virtualenv/
+virtualenv/
+.idea/
+__pycache__/
+
+
+app/node_modules
+app/node_modules/*
+app/yarn-error.log
+app/dist/
